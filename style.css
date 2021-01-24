@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	background-color: black;
+    display: table;
+    margin: 0 auto;
+}
+
+#green{
+	background-color: green;
+	height: 250px;
+	width: 700px;
+}
+
+#white{
+	background-color: lightgray;
+	height: 875px;
+	width: 700px;
+}
+
+.text{
+	text-align: left;
+	font-size: 24px;
+	padding-left: 20px;
+
+}
+
+input{
+	width: 150px;
+	height: 30px;
+}
+
+button{
+	border-style: ridge;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+}
+
+.vierkant{
+	border-style: solid;
+	width: 100px;
+	height: 120px;
+	font-weight: bold;
+	font-size: 120px;
+	display:inline-block;
+	margin: 20px 10px;
+}
